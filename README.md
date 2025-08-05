@@ -1,6 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYeonhee-Ha&count_bg=%23A488EB&title_bg=%235A8AE5&icon=github.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
 ![Image](https://github.com/user-attachments/assets/92fd7988-809d-43da-aa53-8a41ca04e14a)
 
 
