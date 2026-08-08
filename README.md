@@ -82,12 +82,14 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yeonhee-Ha&show_icons=true&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeonhee-Ha&layout=compact&hide_border=true" height="170"/>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Yeonhee-Ha&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/Yeonhee-Ha"
+  width="600"
+  height="300"
+/>
+</a>
 
 </div>
 
