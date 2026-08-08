@@ -2,8 +2,6 @@
 
 # Hi, I'm Yeonhee Ha 👋
 
-### Software Developer
-
 **Building reliable and scalable services.**
 
 <br/>
@@ -14,6 +12,25 @@
 </div>
 
 ---
+
+## 🎓 Education
+
+**Dongguk University**
+`AI Software Convergence` · `Multimedia Software Engineering`
+`2022 – Present`
+
+**University of Oslo**
+`Mathematics and Natural Sciences` · `Exchange Student`
+`2023.12 – 2024.07`
+
+## 💼 Experience
+
+**Dongguk University LikeLion 13th**
+`Developer · Team Lead` · `2025.03 – 2025.11`
+
+**KEPCO MCS**
+`Youth Work Experience Program` · `2025.07 – 2025.08`
+
 
 ## 🛠 Tech Stack
 
