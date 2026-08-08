@@ -25,11 +25,9 @@
 
 ## 💼 Experience
 
-**Dongguk University LikeLion 13th**
-`Developer · Team Lead` · `2025.03 – 2025.11`
+**Dongguk University LikeLion 13th** · `2025.03 – 2025.11`
 
-**KEPCO MCS**
-`Youth Work Experience Program` · `2025.07 – 2025.08`
+**KEPCO MCS** · `2025.07 – 2025.08`
 
 
 ## 🛠 Tech Stack
