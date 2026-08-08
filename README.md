@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/📄%20Portfolio-000000?style=for-the-badge)](./portfolio/Yeonhee_Ha_Portfolio.pdf)
+[![Portfolio](https://img.shields.io/badge/📄%20Portfolio-000000?style=for-the-badge)](./portfolio/Yeonhee_Ha_Portfolio_2026-08.pdf)
 [![Email](https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flfkrdl123@gmail.com)
 
 </div>
