@@ -72,14 +72,16 @@
 
 ## 🚀 Projects
 
-| Project | Role | Stack | Repository |
-|:--|:--|:--|:--|
-| 🎨 **DoLog** | `BE Lead` · `FE` | `Spring` `Next.js` `MySQL` `AWS` | [Repository](https://github.com/DoLog-Team) |
-| 🎧 **Soribom** | `Team Lead` · `BE` | `Django` `Celery` `Redis` `SSE` | [Repository](https://github.com/CSID-DGU/2025-2-CSC4004-1-5-team5) |
-| 🎪 **Chuwol Chunpung** | `BE`  | `Django` `AWS` | [BE](https://github.com/LikeLion-at-DGU/2025_fall_festival_BE) |
-| 📚 **Qroom** | `BE` | `Spring` `JPA` `MySQL` `AWS` | [BE](https://github.com/Line4thon-Qroom/BE) |
-| 🤖 **Simbatda** | `BE` | `Django` `AI` | [BE](https://github.com/LikeLion-at-DGU/2025-hackathon-5-jaego-backend) |
+| Project                | Year   | Role               | Description                              | Stack                            | Repository                                                              |
+| :--------------------- | :----- | :----------------- | :--------------------------------------- | :------------------------------- | :---------------------------------------------------------------------- |
+| 🎨 **DoLog**           | `2026` | `BE Lead` · `FE`   | Exhibition Archiving & Curation Platform | `Spring` `Next.js` `MySQL` `AWS` | [Repository](https://github.com/DoLog-Team)                             |
+| 🎧 **Soribom**         | `2025` | `Team Lead` · `BE` | AI Subway Voice Guidance Service         | `Django` `Celery` `Redis` `SSE`  | [Repository](https://github.com/CSID-DGU/2025-2-CSC4004-1-5-team5)      |
+| 🎪 **Chuwol Chunpung** | `2025` | `BE`               | University Festival Web Service          | `Django` `AWS`                   | [BE](https://github.com/LikeLion-at-DGU/2025_fall_festival_BE)          |
+| 📚 **Qroom**           | `2025` | `BE`               | AI Group Learning Platform               | `Spring` `JPA` `MySQL` `AWS`     | [BE](https://github.com/Line4thon-Qroom/BE)                             |
+| 🤖 **Simbatda**        | `2025` | `BE`               | AI Recommendation Service                | `Django` `AI`                    | [BE](https://github.com/LikeLion-at-DGU/2025-hackathon-5-jaego-backend) |
+
 ---
+
 
 ## 📊 GitHub Stats
 <div align="center">
