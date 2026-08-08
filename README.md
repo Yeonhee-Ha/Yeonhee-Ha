@@ -20,7 +20,7 @@
 `2022 – Present`
 
 **University of Oslo**
-`Mathematics and Natural Sciences` · `Exchange Student`
+`Mathematics and Natural Sciences` · 
 `2023.12 – 2024.07`
 
 ## 💼 Experience
