@@ -2,7 +2,7 @@
 
 # Hi, I'm Yeonhee Ha 👋
 
-### Full-Stack Developer
+### Software Developer
 
 **Building reliable and scalable services.**
 
